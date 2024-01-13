@@ -1,2 +1,1 @@
-# prepCourse-Henry
-Estudio en Henry nea
+esto es una prueba de como crear un repositorio y clonarlo desde mi escritorio local
